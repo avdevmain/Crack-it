@@ -10,5 +10,5 @@ Store pictures:
   <img src="https://play-lh.googleusercontent.com/wPAZbbgMt6JrNTjB25U9Y11ISJdObgcBVvtgf0rXaAg8ECgFjxJMPPSqFtRdgStHgE0=w1601-h1085-rw" width="250" title="hover text">
 </p>
 Gameplay demonstration:
-<img src="https://github.com/cblPP/Crack-it/blob/main/CrackIt_gameplay.gif" width="300" height="40" />
+<img src="https://github.com/cblPP/Crack-it/blob/main/CrackIt_gameplay.gif" width="300" />
 
