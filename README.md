@@ -9,6 +9,6 @@ Store pictures:
   <img src="https://play-lh.googleusercontent.com/ie4cuq3PM8KSdtSfTpb9AdFj9WLDQuobsYsKM2HNL8vg5FkWvI-FyPnfEwtSQ-paYQ=w1601-h1085-rw" width="250" title="hover text">
   <img src="https://play-lh.googleusercontent.com/wPAZbbgMt6JrNTjB25U9Y11ISJdObgcBVvtgf0rXaAg8ECgFjxJMPPSqFtRdgStHgE0=w1601-h1085-rw" width="250" title="hover text">
 </p>
-There is alsl a [gameplay video demonstration](https://youtu.be/58yqtVjWT8o)
+There is also a [gameplay video demonstration](https://youtu.be/58yqtVjWT8o).
 
 
