@@ -2,7 +2,9 @@
 Mobile hypercasual game, where you need to crack rocks with your finger to get valuable gems
 
 Game was made using [Destructible2D asset](https://assetstore.unity.com/packages/tools/sprite-management/destructible-2d-18125).
+
 There is also a [gameplay video demonstration](https://youtu.be/58yqtVjWT8o).
+
 Store pictures:
 <p float="left">
   <img src="https://play-lh.googleusercontent.com/ruZpUoRGsMe-HZf-PfIRV7GYCDv5wzvUHJP4q2ex5y4GIcu21DIpljJ98fIsqPihN2s=w1601-h1085-rw" width="250" title="hover text">
