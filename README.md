@@ -1,4 +1,4 @@
-# Crack-it
+# Crack-it (05.2021)
 Mobile hypercasual game, where you need to crack rocks with your finger to get valuable gems
 
 Game was made using [Destructible2D asset](https://assetstore.unity.com/packages/tools/sprite-management/destructible-2d-18125).
