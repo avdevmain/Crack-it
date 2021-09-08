@@ -84,7 +84,7 @@ public class ProgressManager : MonoBehaviour
         amplitude = Amplitude.getInstance();
         amplitude.logging = true;
         amplitude.trackSessionEvents(true);
-        amplitude.init("56446dc30049e3da9b13c0b4b853b9a0"); 
+        amplitude.init(""); 
 
         amplitude.setUserProperty("session_id", amplitude.getSessionId());
         Debug.Log("Айди сессии: " + amplitude.getSessionId());
